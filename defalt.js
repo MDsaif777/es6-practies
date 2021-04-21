@@ -7,4 +7,4 @@ function add(num1, num2  = 5){
 };
 
 const total =add(15,10);
-console.log(total)
+console.log(total) 
